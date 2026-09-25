@@ -1,1 +1,162 @@
-
+[
+  {
+    "id": 101,
+    "name": "Moule-Frites",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 850,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/moulesFrites.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Belgian Waffle",
+    "category": "Dessert",
+    "is_spicy": false,
+    "calories": 450,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/belgianWaffle.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Coq au Vin",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 720,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/coqAuVin.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Crème Brûlée",
+    "category": "Dessert",
+    "is_spicy": false,
+    "calories": 380,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/cremeBrulee.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Pizza Napoletana",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 900,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/pizzaNap.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Gelato",
+    "category": "Dessert",
+    "is_spicy": false,
+    "calories": 250,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/gelato.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Paella Valenciana",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 680,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/paellaValenciana.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Churros",
+    "category": "Dessert",
+    "is_spicy": false,
+    "calories": 520,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/churros.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Sushi",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 500,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/sushi.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Ramen",
+    "category": "Main",
+    "is_spicy": true,
+    "calories": 750,
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/ramen.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Tacos al Pastor",
+    "category": "Main",
+    "is_spicy": true,
+    "calories": 600,
+    "image_url": "https://example.com/images/tacos.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Guacamole",
+    "category": "Appetizer",
+    "is_spicy": false,
+    "calories": 230,
+    "image_url": "https://example.com/images/guacamole.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Butter Chicken",
+    "category": "Main",
+    "is_spicy": true,
+    "calories": 820,
+    "image_url": "https://example.com/images/butter-chicken.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Samosa",
+    "category": "Snack",
+    "is_spicy": true,
+    "calories": 310,
+    "image_url": "https://example.com/images/samosa.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Pad Thai",
+    "category": "Main",
+    "is_spicy": true,
+    "calories": 640,
+    "image_url": "https://example.com/images/pad-thai.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Tom Yum Goong",
+    "category": "Soup",
+    "is_spicy": true,
+    "calories": 290,
+    "image_url": "https://example.com/images/tom-yum.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Moussaka",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 710,
+    "image_url": "https://example.com/images/moussaka.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Baklava",
+    "category": "Dessert",
+    "is_spicy": false,
+    "calories": 430,
+    "image_url": "https://example.com/images/baklava.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Feijoada",
+    "category": "Main",
+    "is_spicy": false,
+    "calories": 880,
+    "image_url": "https://example.com/images/feijoada.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Pão de Queijo",
+    "category": "Snack",
+    "is_spicy": false,
+    "calories": 180,
+    "image_url": "https://example.com/images/pao-de-queijo.jpg"
+  }
+]
