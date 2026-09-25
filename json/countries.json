@@ -1,1 +1,202 @@
-
+[
+  {
+    "id": 1,
+    "name": "België",
+    "description": "Een West-Europees land dat bekendstaat om zijn middeleeuwse steden, iconische chocolade, bier en heerlijke gastronomie.",
+    "population_millions": 11.58,
+    "is_eu_member": true,
+    "independence_date": "1830-10-04",
+    "flag_image_url": "https://example.com/images/belgium-flag.jpg",
+    "continent": "Europe",
+    "primary_languages": ["Dutch", "French", "German"],
+    "dish_ids": [101, 102],
+    "favorite_dish": {
+      "id": 101,
+      "name": "Moule-Frites",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 850,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/moulesFrites.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Frankrijk",
+    "description": "Frankrijk is wereldberoemd om zijn verfijnde kookkunst, wijnen, historische monumenten en culturele erfgoed.",
+    "population_millions": 67.75,
+    "is_eu_member": true,
+    "independence_date": "1789-07-14",
+    "flag_image_url": "https://example.com/images/france-flag.jpg",
+    "continent": "Europe",
+    "primary_languages": ["French"],
+    "dish_ids": [103, 104],
+    "favorite_dish": {
+      "id": 103,
+      "name": "Coq au Vin",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 720,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/coqAuVin.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Italië",
+    "description": "Gelegen aan de Middellandse Zee, heeft Italië een enorme invloed gehad op de westerse cultuur en de wereldwijde keuken.",
+    "population_millions": 59.11,
+    "is_eu_member": true,
+    "independence_date": "1861-03-17",
+    "flag_image_url": "https://example.com/images/italy-flag.jpg",
+    "continent": "Europe",
+    "primary_languages": ["Italian"],
+    "dish_ids": [105, 106],
+    "favorite_dish": {
+      "id": 105,
+      "name": "Pizza Napoletana",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 900,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/pizzaNap.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Spanje",
+    "description": "Een zonnig land op het Iberisch Schiereiland, bekend om tapas, flamenco, prachtige stranden en bruisende steden.",
+    "population_millions": 47.42,
+    "is_eu_member": true,
+    "independence_date": "1492-10-12",
+    "flag_image_url": "https://example.com/images/spain-flag.jpg",
+    "continent": "Europe",
+    "primary_languages": ["Spanish", "Catalan", "Basque"],
+    "dish_ids": [107, 108],
+    "favorite_dish": {
+      "id": 107,
+      "name": "Paella Valenciana",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 680,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/paellaValenciana.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Japan",
+    "description": "Een eilandnatie in Oost-Azië waar eeuwenoude tradities naadloos samensmelten met ultramoderne technologie en gastronomie.",
+    "population_millions": 125.7,
+    "is_eu_member": false,
+    "independence_date": "0660-02-11",
+    "flag_image_url": "https://example.com/images/japan-flag.jpg",
+    "continent": "Asia",
+    "primary_languages": ["Japanese"],
+    "dish_ids": [109, 110],
+    "favorite_dish": {
+      "id": 109,
+      "name": "Sushi",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 500,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/sushi.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mexico",
+    "description": "Een land vol rijke geschiedenis, Maya- en Azteekse ruïnes, en een unieke, kleurrijke culinaire traditie die op de UNESCO-lijst staat.",
+    "population_millions": 126.7,
+    "is_eu_member": false,
+    "independence_date": "1810-09-16",
+    "flag_image_url": "https://example.com/images/mexico-flag.jpg",
+    "continent": "Americas",
+    "primary_languages": ["Spanish"],
+    "dish_ids": [111, 112],
+    "favorite_dish": {
+      "id": 111,
+      "name": "Tacos al Pastor",
+      "category": "Main",
+      "is_spicy": true,
+      "calories": 600,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/tacosElPasor.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "India",
+    "description": "Een divers en uitgestrekt land in Zuid-Azië, beroemd om zijn rijke specerijen, historische paleizen en spirituele tradities.",
+    "population_millions": 1408.0,
+    "is_eu_member": false,
+    "independence_date": "1947-08-15",
+    "flag_image_url": "https://example.com/images/india-flag.jpg",
+    "continent": "Asia",
+    "primary_languages": ["Hindi", "English", "Bengali"],
+    "dish_ids": [113, 114],
+    "favorite_dish": {
+      "id": 113,
+      "name": "Butter Chicken",
+      "category": "Main",
+      "is_spicy": true,
+      "calories": 820,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/butterChicken.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Thailand",
+    "description": "Bekend als het 'Land van de Glimlach', met tropische stranden, koninklijke paleizen en gerechten vol complexe aroma's.",
+    "population_millions": 71.6,
+    "is_eu_member": false,
+    "independence_date": "1238-11-06",
+    "flag_image_url": "https://example.com/images/thailand-flag.jpg",
+    "continent": "Asia",
+    "primary_languages": ["Thai"],
+    "dish_ids": [115, 116],
+    "favorite_dish": {
+      "id": 115,
+      "name": "Pad Thai",
+      "category": "Main",
+      "is_spicy": true,
+      "calories": 640,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/padThai.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Griekenland",
+    "description": "De wieg van de westerse beschaving, bekend om zijn duizenden eilanden, antieke tempels en verse mediterrane ingrediënten.",
+    "population_millions": 10.64,
+    "is_eu_member": true,
+    "independence_date": "1821-03-25",
+    "flag_image_url": "https://example.com/images/greece-flag.jpg",
+    "continent": "Europe",
+    "primary_languages": ["Greek"],
+    "dish_ids": [117, 118],
+    "favorite_dish": {
+      "id": 117,
+      "name": "Moussaka",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 710,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/moussaka.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Brazilië",
+    "description": "Het grootste land in Zuid-Amerika, beroemd om het Amazoneregenwoud, het bruisende Carnaval en een levendige eetcultuur.",
+    "population_millions": 214.3,
+    "is_eu_member": false,
+    "independence_date": "1822-09-07",
+    "flag_image_url": "https://example.com/images/brazil-flag.jpg",
+    "continent": "Americas",
+    "primary_languages": ["Portuguese"],
+    "dish_ids": [119, 120],
+    "favorite_dish": {
+      "id": 119,
+      "name": "Feijoada",
+      "category": "Main",
+      "is_spicy": false,
+      "calories": 880,
+      "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/feijoada.jpg"
+    }
+  }
+]
