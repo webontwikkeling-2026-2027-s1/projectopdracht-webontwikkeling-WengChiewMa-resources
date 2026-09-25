@@ -85,7 +85,7 @@
     "category": "Main",
     "is_spicy": true,
     "calories": 600,
-    "image_url": "https://example.com/images/tacos.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/tacosElPasor.jpg"
   },
   {
     "id": 112,
@@ -93,7 +93,7 @@
     "category": "Appetizer",
     "is_spicy": false,
     "calories": 230,
-    "image_url": "https://example.com/images/guacamole.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/guacamole.jpg"
   },
   {
     "id": 113,
@@ -101,7 +101,7 @@
     "category": "Main",
     "is_spicy": true,
     "calories": 820,
-    "image_url": "https://example.com/images/butter-chicken.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/butterChicken.jpg"
   },
   {
     "id": 114,
@@ -109,7 +109,7 @@
     "category": "Snack",
     "is_spicy": true,
     "calories": 310,
-    "image_url": "https://example.com/images/samosa.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/samosa.jpg"
   },
   {
     "id": 115,
@@ -117,7 +117,7 @@
     "category": "Main",
     "is_spicy": true,
     "calories": 640,
-    "image_url": "https://example.com/images/pad-thai.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/padThai.jpg"
   },
   {
     "id": 116,
@@ -125,7 +125,7 @@
     "category": "Soup",
     "is_spicy": true,
     "calories": 290,
-    "image_url": "https://example.com/images/tom-yum.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/tomYumGoong.jpg"
   },
   {
     "id": 117,
@@ -133,7 +133,7 @@
     "category": "Main",
     "is_spicy": false,
     "calories": 710,
-    "image_url": "https://example.com/images/moussaka.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/moussaka.jpg"
   },
   {
     "id": 118,
@@ -141,7 +141,7 @@
     "category": "Dessert",
     "is_spicy": false,
     "calories": 430,
-    "image_url": "https://example.com/images/baklava.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/baklava.jpg"
   },
   {
     "id": 119,
@@ -149,7 +149,7 @@
     "category": "Main",
     "is_spicy": false,
     "calories": 880,
-    "image_url": "https://example.com/images/feijoada.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/feijoada.jpg"
   },
   {
     "id": 120,
@@ -157,6 +157,6 @@
     "category": "Snack",
     "is_spicy": false,
     "calories": 180,
-    "image_url": "https://example.com/images/pao-de-queijo.jpg"
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-WengChiewMa-resources/refs/heads/main/images/paoDeQueijo.jpg"
   }
 ]
