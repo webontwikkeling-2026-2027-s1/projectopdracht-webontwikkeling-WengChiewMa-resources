@@ -2,6 +2,7 @@
   {
     "id": 101,
     "name": "Moule-Frites",
+    "description": "Steamed mussels in a white wine and herb broth, served with crispy Belgian fries.",
     "category": "Main",
     "is_spicy": false,
     "calories": 850,
@@ -10,6 +11,7 @@
   {
     "id": 102,
     "name": "Belgian Waffle",
+    "description": "Light and crispy waffle with deep pockets, often topped with powdered sugar, cream or fruit.",
     "category": "Dessert",
     "is_spicy": false,
     "calories": 450,
@@ -18,6 +20,7 @@
   {
     "id": 103,
     "name": "Coq au Vin",
+    "description": "French classic of chicken slowly braised in red wine with mushrooms, onions and bacon.",
     "category": "Main",
     "is_spicy": false,
     "calories": 720,
@@ -26,6 +29,7 @@
   {
     "id": 104,
     "name": "Crème Brûlée",
+    "description": "Rich vanilla custard with a thin layer of caramelized sugar that cracks under your spoon.",
     "category": "Dessert",
     "is_spicy": false,
     "calories": 380,
@@ -34,6 +38,7 @@
   {
     "id": 105,
     "name": "Pizza Napoletana",
+    "description": "Neapolitan pizza with a soft, airy crust, San Marzano tomatoes, mozzarella and fresh basil.",
     "category": "Main",
     "is_spicy": false,
     "calories": 900,
@@ -42,6 +47,7 @@
   {
     "id": 106,
     "name": "Gelato",
+    "description": "Italian ice cream that is denser and creamier than regular ice cream, in many flavors.",
     "category": "Dessert",
     "is_spicy": false,
     "calories": 250,
@@ -50,6 +56,7 @@
   {
     "id": 107,
     "name": "Paella Valenciana",
+    "description": "Saffron rice from Valencia cooked in a wide pan with chicken, rabbit and green beans.",
     "category": "Main",
     "is_spicy": false,
     "calories": 680,
@@ -58,6 +65,7 @@
   {
     "id": 108,
     "name": "Churros",
+    "description": "Fried dough sticks rolled in cinnamon sugar, traditionally dipped in thick hot chocolate.",
     "category": "Dessert",
     "is_spicy": false,
     "calories": 520,
@@ -66,6 +74,7 @@
   {
     "id": 109,
     "name": "Sushi",
+    "description": "Vinegared rice combined with raw fish, seafood or vegetables, often wrapped in seaweed.",
     "category": "Main",
     "is_spicy": false,
     "calories": 500,
@@ -74,6 +83,7 @@
   {
     "id": 110,
     "name": "Ramen",
+    "description": "Japanese noodle soup in a rich broth, topped with pork, a soft-boiled egg and spring onion.",
     "category": "Main",
     "is_spicy": true,
     "calories": 750,
@@ -82,6 +92,7 @@
   {
     "id": 111,
     "name": "Tacos al Pastor",
+    "description": "Corn tortillas filled with spit-grilled marinated pork, pineapple, onion and coriander.",
     "category": "Main",
     "is_spicy": true,
     "calories": 600,
@@ -90,6 +101,7 @@
   {
     "id": 112,
     "name": "Guacamole",
+    "description": "Mashed avocado dip with lime, onion, tomato and coriander, served with tortilla chips.",
     "category": "Appetizer",
     "is_spicy": false,
     "calories": 230,
@@ -98,6 +110,7 @@
   {
     "id": 113,
     "name": "Butter Chicken",
+    "description": "Tender chicken in a creamy, mildly spiced tomato and butter sauce, served with naan or rice.",
     "category": "Main",
     "is_spicy": true,
     "calories": 820,
@@ -106,6 +119,7 @@
   {
     "id": 114,
     "name": "Samosa",
+    "description": "Crispy fried pastry triangles filled with spiced potatoes and peas.",
     "category": "Snack",
     "is_spicy": true,
     "calories": 310,
@@ -114,6 +128,7 @@
   {
     "id": 115,
     "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with egg, tofu or shrimp, bean sprouts and crushed peanuts.",
     "category": "Main",
     "is_spicy": true,
     "calories": 640,
@@ -122,6 +137,7 @@
   {
     "id": 116,
     "name": "Tom Yum Goong",
+    "description": "Hot and sour Thai soup with shrimp, lemongrass, galangal, lime leaves and chili.",
     "category": "Soup",
     "is_spicy": true,
     "calories": 290,
@@ -130,6 +146,7 @@
   {
     "id": 117,
     "name": "Moussaka",
+    "description": "Greek oven dish with layers of eggplant, spiced minced meat and a creamy béchamel sauce.",
     "category": "Main",
     "is_spicy": false,
     "calories": 710,
@@ -138,6 +155,7 @@
   {
     "id": 118,
     "name": "Baklava",
+    "description": "Sweet pastry of thin filo layers filled with chopped nuts and soaked in honey syrup.",
     "category": "Dessert",
     "is_spicy": false,
     "calories": 430,
@@ -146,6 +164,7 @@
   {
     "id": 119,
     "name": "Feijoada",
+    "description": "Hearty Brazilian black bean stew with pork and sausage, served with rice and orange slices.",
     "category": "Main",
     "is_spicy": false,
     "calories": 880,
@@ -154,6 +173,7 @@
   {
     "id": 120,
     "name": "Pão de Queijo",
+    "description": "Small Brazilian cheese breads, crispy outside and chewy inside, made with tapioca flour.",
     "category": "Snack",
     "is_spicy": false,
     "calories": 180,
